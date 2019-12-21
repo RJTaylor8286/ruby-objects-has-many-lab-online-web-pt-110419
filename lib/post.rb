@@ -7,4 +7,5 @@ class Post
   end
 end
 
-eminem = Artist.new("Eminem")
+oliver_twist = Post.new("Oliver Twist")
+hard_times = Post.new("Hard Times")
