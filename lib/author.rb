@@ -8,3 +8,4 @@ class Author
 end
 
 charles_dickens = Author.new("Charles Dickens")
+
