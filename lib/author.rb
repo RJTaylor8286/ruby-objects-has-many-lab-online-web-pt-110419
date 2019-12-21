@@ -11,8 +11,8 @@ class Author
   end
 end
 
-def post
-    @songs
+def posts
+    @posts
   end
 end
 
