@@ -21,3 +21,7 @@ end
 eminem = Artist.new("Eminem")
 eminem.add_song("Slim Shady")
 eminem.add_song("I'm Not Afraid")
+
+eminem.songs
+
+
