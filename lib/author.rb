@@ -11,3 +11,7 @@ class Author
   end
 end
 
+charles_dickens = Author.new("Charles Dickens")
+charles_dickens.add_post("Oliver Twist")
+charles_dickens.add_post("Hard Times")
+
